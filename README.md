@@ -3,7 +3,7 @@ rgb_convert
 
 This is a color value conversion python script
 
-#For examples
+####For examples
 
 python rgb_convert '#a1b2c3'
 
